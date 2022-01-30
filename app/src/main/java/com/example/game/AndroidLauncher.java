@@ -1,10 +1,9 @@
-package com.example.packagename;
+package com.example.game;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.example.packagename.GameSuperClass;
 
 /* Launches the Android application. */
 public class AndroidLauncher extends AndroidApplication {
