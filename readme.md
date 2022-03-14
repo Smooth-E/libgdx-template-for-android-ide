@@ -8,7 +8,7 @@ This is a template [LibGDX](libgdx.com) project that you can use to make games a
 2. Android implementation module renamed `:android -> :app`
 3. Created a sample example for newcomers to get started with LibGDX
 
-Building: `Open AndroidIDE -> Open Existing Project -> Wait until build finishes -> Build Tasks - AssembleDebug`. After that the IDE will generate debug APk located in `project_root/app/build/output/debug`
+Building: `Open AndroidIDE -> Open Existing Project -> Wait until build finishes -> Build Tasks - AssembleDebug`. After that the IDE will generate debug APK located in `project_root/app/build/output/debug`
 
 # License
 ```
